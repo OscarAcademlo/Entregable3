@@ -32,7 +32,7 @@ setSearchInput(e.target.search.value)
   
   return (
     <div className="App">
-      <img className='header_png' src="src/img/head r and M.png" alt="" />
+      <img className='header_png' src="head-r-and -M.png" alt="" />
       <div className="header">
       <h1>Rick and Morty</h1>
       <form onSubmit={handleSubmit}>
